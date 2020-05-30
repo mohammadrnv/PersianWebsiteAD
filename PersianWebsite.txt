@@ -1,5 +1,5 @@
-mediaad.org/*
-mediaad.org
+*mediaad.org/*
+*mediaad.org
 .ir/*/ad/*
 .ir/*/ads/*
 .ir/*/banner/*
