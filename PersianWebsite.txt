@@ -228,7 +228,23 @@ praise.blogfa.com###\33 2145640 > div:nth-of-type(1)
 ||www.blogfa.com/b/*$image
 praise.blogfa.com###\37 9456975 > div:nth-of-type(1)
 praise.blogfa.com###\37 9456975
-
+.ir/*/ad/
+.ir/*/ads/
+.ir/*/banner/
+.ir/*/banners/
+.ir/ad/
+.ir/ads/
+.ir/banner/
+.ir/banners/
+.ir/jsir/popup.js
+/320x250/*
+/ads/files/*
+/adtube.js
+/adtube250.php
+/agahi/*
+/files/adv/*
+/tabligh/*
+/tabliq/*
 ! 5/30/2020 http://pv0000.blogfa.com
 pv0000.blogfa.com##[href="http://www.blogfa.com/ads"]
 pv0000.blogfa.com###\34 6285861 > div:nth-of-type(1)
