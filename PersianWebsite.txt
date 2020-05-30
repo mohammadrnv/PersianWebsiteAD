@@ -18,6 +18,7 @@ www.zoomit.ir##li:nth-of-type(8) > [href="https://www.zoomit.ir/advertisement/"]
 ||cdn01.zoomit.ir/2020/5/f4ffa36a-ba84-4d55-8910-3cfce71772b2.gif$image
 ||cdn01.zoomit.ir/2020/4/33fd142b-55af-44c4-8514-a3b7256aeb71.gif$image
 www.zoomit.ir##div.clearfix.bannercontainer:nth-of-type(3)
+sakhtafzarmag.com###gk_nsp-2
 
 
 ! 5/30/2020 https://www.gsm.ir
