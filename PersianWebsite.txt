@@ -8,3 +8,105 @@
 ||cdn01.zoomit.ir/2020/5/418e7776-4711-4c85-988c-aae882c80d6c.gif$image
 ||cdn01.zoomit.ir/2020/5/dd69f4f4-a4a2-4998-ae95-44e21faba4d8.gif$image
 ||cdn01.zoomit.ir/2020/2/9468367e-8629-40d9-a253-ba02b2fdba26.gif$image
+
+! 5/30/2020 https://www.gsm.ir
+||cdn.gsm.ir/static/files/image/2020/5/30/yoccsg_ezgif.com-video-to-gif.gif$image
+||cdn.gsm.ir/static/files/image/2020/5/16/TS-2398.jpg$image
+||cdn.gsm.ir/static/files/image/2020/5/27/G27---850x130%20(3).gif$image
+||cdn.gsm.ir/static/files/image/2019/10/6/kish-222.gif$image
+||cdn.gsm.ir/static/files/image/2019/7/24/web-282-185-G-gsm.gif$image
+
+! 5/30/2020 https://www.yjc.ir
+||cdn.yjc.ir/files/adv/4050_775.gif$image
+||cdn.yjc.ir/files/adv/3985_809.jpg$image
+
+! 5/30/2020 https://digiato.com
+||digiato.com/wp-content/uploads/2020/05/800x80-2.gif$image
+||digiato.com/wp-content/uploads/2020/05/1000x90-HONOR-Banner-1.gif$image
+
+! 5/30/2020 https://vigiato.net
+||vigiato.net/wp-content/uploads/2020/04/Z5-Z6-290x290-99-02-06.gif$image
+||vigiato.net/wp-content/uploads/2020/04/Z5-Z6-290x290-99-02-06.gif$image
+vigiato.net##iframe
+||vigiato.net/img/icons/xvigiato-logo-back.png.pagespeed.a.ic.ptTrv68TSj.webp$image
+vigiato.net###custom_html-15 > .custom-html-widget.textwidget > .ads-showontablet.ads-showondesktop.vg-adsbox
+
+! 5/30/2020 http://forum.p30world.com
+forum.p30world.com###ad_global_below_navbar > div:nth-of-type(1)
+forum.p30world.com###ad_global_below_navbar
+
+! 5/30/2020 https://www.p30world.com
+||faradars.org/ev/baners/ftr99/index.php?ref=p30world.com$subdocument
+www.p30world.com###kaprila_p30world_com_related
+www.p30world.com###kaprila_p30world_com_related-down
+www.p30world.com###kaprila_sticky_header > div
+www.p30world.com###kaprila_sticky_header
+||beta.kaprila.com/a/show.php?ref=p30world.com&id=inline&w=533&h=110&type=gen&crawl=1&template=inline&count=3&bg=B3FF92&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20Twelvesmith%201.0.4%20%E2%80%93%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%81%DA%A9%D8%B1%DB%8C%20%D9%88%20%D9%86%D9%88%D8%A2%D9%88%D8%B1%D8%A7%D9%86%D9%87%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF$subdocument
+
+! 5/30/2020 https://soft98.ir
+||cloudir.cf/iranicard2.az$image
+soft98.ir##.show.toast-lg.fade.toast
+||cloudir.cf/faradars34.az$image
+soft98.ir##.a6d2x__inner > .card > .card-body
+||beta.kaprila.com/a/t/related/related.php?ref=soft98.ir&id=related-top-post&t=related&col=5&notitle=1&w=1240&h=240&rent=3162&cid=86,3107,129,182,108$subdocument
+soft98.ir##.a6d2x__inner > .card > .card-header
+soft98.ir##.a6d2x__inner
+soft98.ir##.d-block.bg-light.card > .card-header
+soft98.ir##.d-block.bg-light.card > .text-center.card-body
+soft98.ir###sidebar-sticky > .bg-light.card > .text-center.card-body
+soft98.ir###sidebar-sticky > .bg-light.card > .card-header
+
+! 5/30/2020 https://my.shatel.ir
+||www.shatel.ir/dl/myshatel/namava-shatel.png?id=637264734014369824$image
+my.shatel.ir##.swiper-container-rtl.swiper-container-horizontal.swiper-container
+my.shatel.ir##.login-slider
+
+! 5/30/2020 https://www.aparat.com
+www.aparat.com##.main-section
+||www.aparat.com/assets/web/ui/img-Z4CcWTh2Tx9qtGXznSHOA/custom/filimo_movie_HxRsF_desktop_bg.jpg?1$image
+www.aparat.com##.ads-container
+www.aparat.com###list49a7bcfdcc430b46e8c200fe3b1326cd
+www.aparat.com##.dark-bg-100.light-bg-20.px-md.py-md.head
+www.aparat.com##.dark-bc-100.light-bc-20.border-1.dark-bg-140.light-bg-10.py-md.px-md.contents > .inner
+
+! 5/30/2020 https://soft98.ir
+||beta.kaprila.com/a/t/related/related.php?ref=soft98.ir&id=related&t=related&col=3&notitle=1&w=830&h=490&cid=86,3107,149,182,3107,129$subdocument
+
+! 5/30/2020 https://www.borna.news
+||static2.borna.news/servev2/HPj5ncB3IT1W/KxuoffTghAA,/%D8%B1%D8%A7%DB%8C%D8%AA%D9%84.gif$image
+||static3.borna.news/servev2/110uyJpoGoLf/KxuoffTghAA,/%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2%D8%A7%D9%86.gif$image
+||static3.borna.news/servev2/KJyxjgHvTGV1/KxuoffTghAA,/%D8%A8%D8%A7%D9%86%DA%A9+%D8%B1%D9%81%D8%A7%D9%87.gif$image
+||static3.borna.news/servev2/vMrxEJRzeiNm/KxuoffTghAA,/%D8%A2%DA%AF%D9%87%DB%8C+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%84.gif$image
+||static2.borna.news/servev2/dIDKYZnyIZAj/KxuoffTghAA,/%D8%A8%D8%A7%D9%86%DA%A9+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA.gif$image
+||static1.borna.news/servev2/FQq710WGO9NP/KxuoffTghAA,/%D9%BE%DA%AF%D8%A7%D9%87.gif$image
+||static1.borna.news/servev2/uMbrw0vsalsA/KxuoffTghAA,/%D9%BE%D8%B3%D8%AA+%D8%A8%D8%A7%D9%86%DA%A9.gif$image
+||static1.borna.news/servev2/Ci59Y4AVLQI5/KxuoffTghAA,/%D9%87%D9%88%D8%A7%D8%B3%D8%A7%D8%B2.gif$image
+||static2.borna.news/servev2/4OGr5IKj9f2t/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C.gif$image
+||static1.borna.news/servev2/gVcNuIjLubkL/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7.gif$image
+||static2.borna.news/servev2/GD5H1qaex2Dz/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%D9%84%DB%8C%D8%B2%DB%8C%D9%86%DA%AF.gif$image
+||static2.borna.news/servev2/5pDIQkeVKONr/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%D9%BE%DB%8C+%D8%AA%DB%8C+%D8%A7%D8%B3.gif$image
+||static3.borna.news/servev2/vCRdb9gnKcGZ/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86.gif$image
+||static1.borna.news/servev2/dCirz8ocMsI7/KxuoffTghAA,/%D8%AC%D8%AF%DB%8C%D8%AF+-+%D8%B3%D9%84%D8%A7%D9%85%D8%AA.gif$image
+||static2.borna.news/servev2/CBYLp6X6120Y/KxuoffTghAA,/%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2%D8%A7%D9%86+%D8%B5%D9%81%D8%AD%D9%87+%D8%AF%D8%A7%D8%AE%D9%84%DB%8C.gif$image
+www.borna.news##.mediaad-notif-header
+www.borna.news##.mediaad-notif-body
+||ma.backtory.com/mediaad/assets/actionbtn.png$image
+www.borna.news###mediaad-bUEg > .ni-widget-header > .ni-widget-header-inline
+www.borna.news###mediaad-bUEg > .ni-widget-content-box
+www.borna.news##div.position-g1.type-script:nth-of-type(1)
+www.borna.news###mediaad-SVXH > .ni-widget-content-box
+www.borna.news###mediaad-SVXH > .ni-widget-header > .ni-widget-header-inline
+www.borna.news##.position-g0.type-script
+www.borna.news##[href="javascript:;"]
+www.borna.news###mediaad-Orhl > .ni-widget-header > .ni-widget-header-inline
+www.borna.news###mediaad-kIpY
+www.borna.news###mediaad-Orhl > .ni-widget-content-box
+www.borna.news##.mediaad-notif-action-btn
+www.borna.news###mediaad-VSTe
+www.borna.news##.position-g5.type-resource-image.type-resource
+www.borna.news###mediaad-ccpi > .ni-widget-content-box
+www.borna.news###mediaad-ccpi > .ni-widget-header > .ni-widget-header-inline
+www.borna.news###mediaad-ccpi
+
+! 5/30/2020 https://www.namasha.com
+||ad.utop.ir/b/300x150-1369.gif$image
