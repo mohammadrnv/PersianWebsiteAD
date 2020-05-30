@@ -171,3 +171,53 @@ www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-
 www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(3) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
 www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(2) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
 www.ninisite.com##.pull-xs-right.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-9.pr-article > .article-related-box.col-lg-12
+
+! 5/30/2020 https://www.asriran.com
+||cdn.asriran.com/files/adv/6148_115.gif$image
+||cdn.asriran.com/files/adv/6153_835.gif$image
+||cdn.asriran.com/files/adv/6141_517.gif$image
+||cdn.asriran.com/files/adv/6140_737.gif$image
+||cdn.asriran.com/files/adv/6098_931.gif$image
+||cdn.asriran.com/files/adv/5833_111.gif$image
+||cdn.asriran.com/files/adv/6146_684.gif$image
+||cdn.asriran.com/files/adv/5726_488.png$image
+||cdn.asriran.com/files/adv/4952_490.png$image
+
+! 5/30/2020 https://emalls.ir
+||emalls.ir//files/da/d5gpvi01n8pbtjjwcygy06yrno0m25ipq61ns3tyauleedk5kk.gif$image
+||emalls.ir//files/da/tnpprdpk1wzz2hpbexlwto77scxi88ivqysvye60qv5rbbzn7o.jpg$image
+||emalls.ir//files/da/h05m4btrzfne5k7qy1n3cy3602tr8ek53bdef35ivaf58sjyha.png$image
+||emalls.ir//files/da/g1eaq7mh2x2cx0fc7qhuaru0yxipw3t2phe2lvocop5ja3j7vb.png$image
+||emalls.ir//files/da/sh56115mbi6wv6nzis6hldumul7yps8m8vjwkhckw5ph02oax8.png$image
+||emalls.ir//files/da/77bor6lq6xxkcw8yjz1pf5xqk00ii0o7376u3o08lfdbombptz.gif$image
+||emalls.ir//files/da/hoxqeq7quzofw8kazdiwi17ovwbvff4e3h7hm4z3ig15b0vpi7.gif$image
+||emalls.ir//files/da/hviif3buyd6cd40pdoxhi2o3yganfd6ts8p1rama84vew7cih3.jpg$image
+emalls.ir##.side-bar-wrapper > div
+
+! 5/30/2020 https://www.rokna.net
+||static1.rokna.net/servev2/jAL3SqgU6Mz3/Db2f077dXpA,/%D8%B3%D9%85+%D9%BE%D8%A7%D8%B4%DB%8C+-+%D8%A8%D9%86%D8%B1+%D9%85%D8%B1%D8%A8%D8%B9%DB%8C+-+%D8%B5%D9%81%D8%AD%D9%87+%D8%AF%D8%A7%D8%AE%D9%84%DB%8C.gif$image
+www.rokna.net##[href="/advertisements/triggered/700/"]
+www.rokna.net##.adv-cases
+||cdni.sanjagh.com/assets/c/3aad123373d82ecd/514052b6961edc9cf04780e90df6089b/84cda93af62b674d.jpg$image
+www.rokna.net##a._1bDjj2PYtFg9n5wUg2WhyE:nth-of-type(2) > ._1k6lUmkT5R6Zjy2SijTWao
+||cdni.sanjagh.com/assets/c/4323f7ca53911f94/9a9766b76071d8d4d47dc77482226526/fe948a0cf9e5a130.jpg$image
+www.rokna.net##.zxc-padding-custom.white.default-bg.margin-bottom-16.container
+www.rokna.net###mediaad-A > .ni-widget-header
+www.rokna.net##._1b_h_DtztTfjNGI7Qz9f6s
+www.rokna.net###mediaad-A > .ni-widget-content-box
+www.rokna.net##a._1bDjj2PYtFg9n5wUg2WhyE:nth-of-type(4)
+||cdni.sanjagh.com/assets/c/c384b3e7c07523b5/c0d9f44cfe18f78084269195592992c5/5901f35dbcf21c89.jpg$image
+||cdni.sanjagh.com/assets/c/4323f7ca53911f94/8f8e43727eef5bfd06a6efb835e9e41e/f41a04a73f68b6b6.jpg$image
+||cdni.sanjagh.com/assets/c/c384b3e7c07523b5/3d137d752b246658dd9294eb412e6ff8/bb359fa11d38e949.jpg$image
+www.rokna.net##a._1bDjj2PYtFg9n5wUg2WhyE:nth-of-type(1) > ._1k6lUmkT5R6Zjy2SijTWao
+||cdni.sanjagh.com/assets/c/3aad123373d82ecd/514052b6961edc9cf04780e90df6089b/84cda93af62b674d.jpg$image
+www.rokna.net##div.position-h4.type-script:nth-of-type(1)
+www.rokna.net##div.position-h4.type-script:nth-of-type(2)
+www.rokna.net##a._1bDjj2PYtFg9n5wUg2WhyE:nth-of-type(3) > ._1k6lUmkT5R6Zjy2SijTWao
+www.rokna.net##._1KCgn3BRn6JSDmGtIDSFRR.pyKfDAAkkVNku-moMqHfe
+
+! 5/30/2020 https://toranji.ir
+||toranji.ir/wp-content/uploads/2018/10/790x84.gif$image
+toranji.ir###mc-top-banner-left
+toranji.ir###mc-top-banner-right
+toranji.ir###menu-item-1011376 > [href="https://toranji.ir/%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa/"]
