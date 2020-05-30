@@ -259,3 +259,15 @@ cafeapple.net##div.side-tabligh.side-block:nth-of-type(3)
 cafeapple.net##.tblinks-wrap > .center
 cafeapple.net##.tblinks-wrap
 cafeapple.net##.love > .center > .big-tabligh
+
+! 5/30/2020 https://panel.mediaad.org
+||panel.mediaad.org/*$image
+
+! 5/30/2020 https://gamefa.com
+||gamefa.com/wp-content/uploads/2020/04/GAMEFA*.jpg$image
+||gamefa.com/wp-content/uploads/2020/04/geefti.gif$image
+gamefa.com##.px-sm-3.px-1.pt-3.container-fluid > .text-center.p-2.light-back.rounded
+gamefa.com##section.baners.mb-2.px-md-4:nth-of-type(4) > .px-sm-3.px-1.container-fluid
+gamefa.com###image-advertise > .px-2.pt-2.rounded.light-back
+||gamefa.com/wp-content/uploads/2020/04/ezgif-2-48ef36f8d06b.gif$image
+gamefa.com###close-top-fix
