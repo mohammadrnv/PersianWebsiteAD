@@ -1,5 +1,8 @@
 *mediaad.org/*
+||mediaad.org^$third-party
 *mediaad.org
+*/mediaad/*
+*/mediaad
 .ir/*/ad/*
 .ir/*/ads/*
 .ir/*/banner/*
