@@ -1,3 +1,23 @@
+.ir/*/ad/
+.ir/*/ads/
+.ir/*/banner/
+.ir/*/banners/
+.ir/ad/
+.ir/ads/
+.ir/banner/
+.ir/banners/
+.ir/jsir/popup.js
+/320x250/*
+/ads/files/*
+/adtube.js
+/adtube250.php
+/agahi/*
+/files/adv/*
+/file/ad/*
+/file/ads/*
+/tabligh/*
+/tablighat/*
+/tabliq/*
 ! 5/30/2020 https://www.zoomit.ir
 ||cdn01.zoomit.ir/2020/5/79ca657d-cadc-48bd-86f0-335b2bd93d64.gif$image
 ||cdn01.zoomit.ir/2020/4/a627d661-5437-43f6-bb4e-a10b787b646e.gif$image
@@ -228,23 +248,7 @@ praise.blogfa.com###\33 2145640 > div:nth-of-type(1)
 ||www.blogfa.com/b/*$image
 praise.blogfa.com###\37 9456975 > div:nth-of-type(1)
 praise.blogfa.com###\37 9456975
-.ir/*/ad/
-.ir/*/ads/
-.ir/*/banner/
-.ir/*/banners/
-.ir/ad/
-.ir/ads/
-.ir/banner/
-.ir/banners/
-.ir/jsir/popup.js
-/320x250/*
-/ads/files/*
-/adtube.js
-/adtube250.php
-/agahi/*
-/files/adv/*
-/tabligh/*
-/tabliq/*
+
 ! 5/30/2020 http://pv0000.blogfa.com
 pv0000.blogfa.com##[href="http://www.blogfa.com/ads"]
 pv0000.blogfa.com###\34 6285861 > div:nth-of-type(1)
