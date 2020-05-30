@@ -253,3 +253,15 @@ praise.blogfa.com###\37 9456975
 ! 5/30/2020 http://pv0000.blogfa.com
 pv0000.blogfa.com##[href="http://www.blogfa.com/ads"]
 pv0000.blogfa.com###\34 6285861 > div:nth-of-type(1)
+
+! 5/30/2020 http://cafeapple.net
+||cafeapple.net/templates/Barana/images/FaRaRa.gif$image
+cafeapple.net##div.side-tabligh.side-block:nth-of-type(1)
+||cafeapple.net/uploads/banner/Ads.jpg$image
+||cafeapple.net/uploads/banner/Instagram.jpg$image
+||cafeapple.net/uploads/banner/Ads.jpg$image
+cafeapple.net##div.side-tabligh.side-block:nth-of-type(3)
+||cafeapple.net/uploads/banner/Channel.jpg$image
+cafeapple.net##.tblinks-wrap > .center
+cafeapple.net##.tblinks-wrap
+cafeapple.net##.love > .center > .big-tabligh
