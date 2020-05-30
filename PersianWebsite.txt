@@ -271,3 +271,4 @@ gamefa.com##section.baners.mb-2.px-md-4:nth-of-type(4) > .px-sm-3.px-1.container
 gamefa.com###image-advertise > .px-2.pt-2.rounded.light-back
 ||gamefa.com/wp-content/uploads/2020/04/ezgif-2-48ef36f8d06b.gif$image
 gamefa.com###close-top-fix
+##.pb-3.baners.px-md-4
