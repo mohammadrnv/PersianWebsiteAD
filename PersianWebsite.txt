@@ -126,3 +126,27 @@ www.zoomit.ir##.theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1)
 www.zoomit.ir##div.banner-wrapper:nth-of-type(3)
 www.zoomit.ir##div.banner-wrapper:nth-of-type(4) > .banner
 www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(1) > .banner
+
+! 5/30/2020 https://namnak.com
+||files.namnak.com/aup/202005/45.gif$image
+
+! 5/30/2020 https://beytoote.com
+||storage.beytoote.com/images/adsbeytoote/img/33385-5277-pc-5277.gif$image
+||storage.beytoote.com/images/adsbeytoote/img/33399-5168-pc-5168.gif$image
+||storage.beytoote.com/images/adsbeytoote/default/dc.gif$image
+||storage.beytoote.com/images/adsbeytoote/default/efg/golestanali.ir.gif$image
+||storage.beytoote.com/images/adsbeytoote/img/33870-2172-pc-2172.gif$image
+beytoote.com###\33 3870
+beytoote.com##div.pc-f-p.mod-box:nth-of-type(2)
+||storage.beytoote.com/images/adsbeytoote/img/33385-5277-pc-5277.gif$image
+||storage.beytoote.com/images/adsbeytoote/img/33399-5168-pc-5168.gif$image
+beytoote.com###\33 3385
+beytoote.com###\33 3399
+||storage.beytoote.com/images/adsbeytoote/default/dc.gif$image
+beytoote.com##.count.rcd_d.countclick.height-180.c-ads-banner
+beytoote.com###innerbottom > div.grid-v.width100.grid-box:nth-of-type(2) > .deepest.module
+beytoote.com##.deepest.tgm-other.mod-box.module
+||storage.beytoote.com/images/banners/prices2.png$image
+beytoote.com##li:nth-of-type(2) > .clearfix.wk-content > .mod-box
+beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides > li:nth-of-type(2)
+beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides
