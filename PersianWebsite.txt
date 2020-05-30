@@ -150,3 +150,24 @@ beytoote.com##.deepest.tgm-other.mod-box.module
 beytoote.com##li:nth-of-type(2) > .clearfix.wk-content > .mod-box
 beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides > li:nth-of-type(2)
 beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides
+
+! 5/30/2020 https://www.ninisite.com
+||s2.ninifile.com/statics/advideo/*$media
+||s2.ninifile.com/statics/advideo/2020/5/6a198f68-ba35-44d4-b66e-b5f8b12c2958/0f2dac3b-77ce-4b38-8f4d-a1a0c9a0e630-a.mp4$media
+www.ninisite.com##.four-in-column > .row
+www.ninisite.com##.related-title > .text-xs-right.title
+||s1.ninifile.com/statics/posts/old/2017/1/76142_636197375355965586_l.gif?width=255&height=128&crop&bgcolor=ffffff$image
+||s2.ninifile.com/statics/posts/qi/2019/5/1410d6fa-a8c3-4604-a3c0-b6ce6537a940/5a47cbcd-751d-432c-977d-b56ed9c9cf8d.jpg?width=255&height=128&crop&bgcolor=ffffff$image
+||s1.ninifile.com/statics/posts/old/2016/2/57472_635916616351532664_l.jpg?width=255&height=128&crop&bgcolor=ffffff$image
+||s1.ninifile.com/statics/posts/old/2016/3/59552_635928564558832388_l.jpg?width=255&height=128&crop&bgcolor=ffffff$image
+||s2.ninifile.com/statics/posts/qi/2019/7/15371ab4-4f94-41e2-ae5e-1ae4cf18fc39/b39197bb-4a6b-4405-bc01-345ccfb10514.jpg?width=255&height=128&crop&bgcolor=ffffff$image
+||s2.ninifile.com/statics/posts/qi/2019/5/26e0d5fa-db42-4d1d-a5b3-a5b0d22d2489/b442ffe4-b2f0-4b2a-8c95-70f757977da5.jpg?width=255&height=128&crop&bgcolor=ffffff$image
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(2) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block > .nini-medium.card-title
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(3) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block > .nini-medium.card-title
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(4) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block > .nini-medium.card-title
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(5) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(6) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(7) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(3) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
+www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(2) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
+www.ninisite.com##.pull-xs-right.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-9.pr-article > .article-related-box.col-lg-12
