@@ -8,6 +8,17 @@
 ||cdn01.zoomit.ir/2020/5/418e7776-4711-4c85-988c-aae882c80d6c.gif$image
 ||cdn01.zoomit.ir/2020/5/dd69f4f4-a4a2-4998-ae95-44e21faba4d8.gif$image
 ||cdn01.zoomit.ir/2020/2/9468367e-8629-40d9-a253-ba02b2fdba26.gif$image
+mediaad.org###menu-item-2804
+mediaad.org##.footer-second.footer > .container > .row
+mediaad.org##div.mx-sm.cusCarousel-item.item:nth-of-type(9)
+mediaad.org##.text-center.cta
+mediaad.org##.bg-gray.section-blog.section-block > .container
+mediaad.org##div.mx-sm.cusCarousel-item.item:nth-of-type(8) > .size-2
+www.zoomit.ir##li:nth-of-type(8) > [href="https://www.zoomit.ir/advertisement/"]
+||cdn01.zoomit.ir/2020/5/f4ffa36a-ba84-4d55-8910-3cfce71772b2.gif$image
+||cdn01.zoomit.ir/2020/4/33fd142b-55af-44c4-8514-a3b7256aeb71.gif$image
+www.zoomit.ir##div.clearfix.bannercontainer:nth-of-type(3)
+
 
 ! 5/30/2020 https://www.gsm.ir
 ||cdn.gsm.ir/static/files/image/2020/5/30/yoccsg_ezgif.com-video-to-gif.gif$image
