@@ -110,3 +110,19 @@ www.borna.news###mediaad-ccpi
 
 ! 5/30/2020 https://www.namasha.com
 ||ad.utop.ir/b/300x150-1369.gif$image
+
+! 5/30/2020 https://www.zoomit.ir
+||cdn01.zoomit.ir/2020/5/96dd1596-b69c-4142-be36-5739b980c064.gif$image
+www.zoomit.ir##.hidden-xs.hidden-sm > .clearfix.bannercontainer > div.banner-wrapper:nth-of-type(2) > .banner
+www.zoomit.ir##.hidden-xs.hidden-sm > .clearfix.bannercontainer > div.banner-wrapper:nth-of-type(1)
+www.zoomit.ir##.wide-adv-box > .clearfix.bannercontainer > .banner-wrapper > .banner
+||cdn01.zoomit.ir/2020/5/49784766-9570-4ba1-924e-88b63ccd6518-400x267.jpg$image
+www.zoomit.ir##div.bigside.item-list-box.bg-white:nth-of-type(4) > .pad15A.item-list-text
+www.zoomit.ir##div.col-xs-pad0LR.item-list-row:nth-of-type(23)
+www.zoomit.ir##div.clearfix.bannercontainer:nth-of-type(4) > .banner-wrapper > .banner
+www.zoomit.ir##.item-roll-row
+www.zoomit.ir##.col-sm-3.rightSidebar.dir-rtl.right-side > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > .banner-wrapper
+www.zoomit.ir##.theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(2)
+www.zoomit.ir##div.banner-wrapper:nth-of-type(3)
+www.zoomit.ir##div.banner-wrapper:nth-of-type(4) > .banner
+www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(1) > .banner
