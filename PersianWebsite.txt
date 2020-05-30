@@ -1,3 +1,4 @@
+||mediaad.*^
 *mediaad.org/*
 ||mediaad.org^$third-party
 *mediaad.org
