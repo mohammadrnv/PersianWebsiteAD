@@ -21,6 +21,7 @@ www.zoomit.ir##div.clearfix.bannercontainer:nth-of-type(3)
 sakhtafzarmag.com###gk_nsp-2
 panel.mediaad.org
 mediaad.org
+bigwallet.ir
 
 ! 5/30/2020 https://www.gsm.ir
 ||cdn.gsm.ir/static/files/image/2020/5/30/yoccsg_ezgif.com-video-to-gif.gif$image
