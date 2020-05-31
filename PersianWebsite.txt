@@ -1,4 +1,4 @@
-! 5/30/2020 https://www.zoomit.ir
+
 ||cdn01.zoomit.ir/2020/5/79ca657d-cadc-48bd-86f0-335b2bd93d64.gif$image
 ||cdn01.zoomit.ir/2020/4/a627d661-5437-43f6-bb4e-a10b787b646e.gif$image
 ||cdn01.zoomit.ir/2020/4/402e91e5-fa10-49a6-b534-20e4f6e6285c.gif$image
@@ -23,30 +23,20 @@ panel.mediaad.org
 mediaad.org
 bigwallet.ir
 https://www.aparat.com/advert
-
-! 5/30/2020 https://www.gsm.ir
 ||cdn.gsm.ir/static/files/image/2020/5/30/yoccsg_ezgif.com-video-to-gif.gif$image
 ||cdn.gsm.ir/static/files/image/2020/5/16/TS-2398.jpg$image
 ||cdn.gsm.ir/static/files/image/2020/5/27/G27---850x130%20(3).gif$image
 ||cdn.gsm.ir/static/files/image/2019/10/6/kish-222.gif$image
 ||cdn.gsm.ir/static/files/image/2019/7/24/web-282-185-G-gsm.gif$image
-
-! 5/30/2020 https://www.yjc.ir
 ||cdn.yjc.ir/files/adv/4050_775.gif$image
 ||cdn.yjc.ir/files/adv/3985_809.jpg$image
-
-! 5/30/2020 https://digiato.com
 ||digiato.com/wp-content/uploads/2020/05/800x80-2.gif$image
 ||digiato.com/wp-content/uploads/2020/05/1000x90-HONOR-Banner-1.gif$image
-
-! 5/30/2020 https://vigiato.net
 ||vigiato.net/wp-content/uploads/2020/04/Z5-Z6-290x290-99-02-06.gif$image
 ||vigiato.net/wp-content/uploads/2020/04/Z5-Z6-290x290-99-02-06.gif$image
 vigiato.net##iframe
 ||vigiato.net/img/icons/xvigiato-logo-back.png.pagespeed.a.ic.ptTrv68TSj.webp$image
 vigiato.net###custom_html-15 > .custom-html-widget.textwidget > .ads-showontablet.ads-showondesktop.vg-adsbox
-
-! 5/30/2020 https://soft98.ir
 ||cloudir.cf/iranicard2.az$image
 soft98.ir##.show.toast-lg.fade.toast
 ||cloudir.cf/faradars34.az$image
@@ -58,24 +48,16 @@ soft98.ir##.d-block.bg-light.card > .card-header
 soft98.ir##.d-block.bg-light.card > .text-center.card-body
 soft98.ir###sidebar-sticky > .bg-light.card > .text-center.card-body
 soft98.ir###sidebar-sticky > .bg-light.card > .card-header
-
-! 5/30/2020 https://my.shatel.ir
 ||www.shatel.ir/dl/myshatel/namava-shatel.png?id=637264734014369824$image
 my.shatel.ir##.swiper-container-rtl.swiper-container-horizontal.swiper-container
 my.shatel.ir##.login-slider
-
-! 5/30/2020 https://www.aparat.com
 www.aparat.com##.main-section
 ||www.aparat.com/assets/web/ui/img-Z4CcWTh2Tx9qtGXznSHOA/custom/filimo_movie_HxRsF_desktop_bg.jpg?1$image
 www.aparat.com##.ads-container
 www.aparat.com###list49a7bcfdcc430b46e8c200fe3b1326cd
 www.aparat.com##.dark-bg-100.light-bg-20.px-md.py-md.head
 www.aparat.com##.dark-bc-100.light-bc-20.border-1.dark-bg-140.light-bg-10.py-md.px-md.contents > .inner
-
-! 5/30/2020 https://soft98.ir
 ||beta.kaprila.com/a/t/related/related.php?ref=soft98.ir&id=related&t=related&col=3&notitle=1&w=830&h=490&cid=86,3107,149,182,3107,129$subdocument
-
-! 5/30/2020 https://www.borna.news
 ||static2.borna.news/servev2/HPj5ncB3IT1W/KxuoffTghAA,/%D8%B1%D8%A7%DB%8C%D8%AA%D9%84.gif$image
 ||static3.borna.news/servev2/110uyJpoGoLf/KxuoffTghAA,/%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2%D8%A7%D9%86.gif$image
 ||static3.borna.news/servev2/KJyxjgHvTGV1/KxuoffTghAA,/%D8%A8%D8%A7%D9%86%DA%A9+%D8%B1%D9%81%D8%A7%D9%87.gif$image
@@ -110,11 +92,7 @@ www.borna.news##.position-g5.type-resource-image.type-resource
 www.borna.news###mediaad-ccpi > .ni-widget-content-box
 www.borna.news###mediaad-ccpi > .ni-widget-header > .ni-widget-header-inline
 www.borna.news###mediaad-ccpi
-
-! 5/30/2020 https://www.namasha.com
 ||ad.utop.ir/b/300x150-1369.gif$image
-
-! 5/30/2020 https://www.zoomit.ir
 ||cdn01.zoomit.ir/2020/5/96dd1596-b69c-4142-be36-5739b980c064.gif$image
 www.zoomit.ir##.hidden-xs.hidden-sm > .clearfix.bannercontainer > div.banner-wrapper:nth-of-type(2) > .banner
 www.zoomit.ir##.hidden-xs.hidden-sm > .clearfix.bannercontainer > div.banner-wrapper:nth-of-type(1)
@@ -129,11 +107,7 @@ www.zoomit.ir##.theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1)
 www.zoomit.ir##div.banner-wrapper:nth-of-type(3)
 www.zoomit.ir##div.banner-wrapper:nth-of-type(4) > .banner
 www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(1) > .banner
-
-! 5/30/2020 https://namnak.com
 ||files.namnak.com/aup/202005/45.gif$image
-
-! 5/30/2020 https://beytoote.com
 ||storage.beytoote.com/images/adsbeytoote/img/33385-5277-pc-5277.gif$image
 ||storage.beytoote.com/images/adsbeytoote/img/33399-5168-pc-5168.gif$image
 ||storage.beytoote.com/images/adsbeytoote/default/dc.gif$image
@@ -153,8 +127,7 @@ beytoote.com##.deepest.tgm-other.mod-box.module
 beytoote.com##li:nth-of-type(2) > .clearfix.wk-content > .mod-box
 beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides > li:nth-of-type(2)
 beytoote.com###slideshow-55-5ed2a392cdbfe > .slides-container > .slides
-
-! 5/30/2020 https://www.ninisite.com
+ite.com
 ||s2.ninifile.com/statics/advideo/*$media
 ||s2.ninifile.com/statics/advideo/2020/5/6a198f68-ba35-44d4-b66e-b5f8b12c2958/0f2dac3b-77ce-4b38-8f4d-a1a0c9a0e630-a.mp4$media
 www.ninisite.com##.four-in-column > .row
@@ -174,8 +147,6 @@ www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-
 www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(3) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
 www.ninisite.com##div.pull-xs-right.col-lg-4.col-md-4.col-sm-6.col-xs-12:nth-of-type(2) > .text--right.clearfix.direction-rtl.card > .article__link > .article__text--height.card-block
 www.ninisite.com##.pull-xs-right.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-9.pr-article > .article-related-box.col-lg-12
-
-! 5/30/2020 https://www.asriran.com
 ||cdn.asriran.com/files/adv/6148_115.gif$image
 ||cdn.asriran.com/files/adv/6153_835.gif$image
 ||cdn.asriran.com/files/adv/6141_517.gif$image
@@ -185,8 +156,6 @@ www.ninisite.com##.pull-xs-right.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-
 ||cdn.asriran.com/files/adv/6146_684.gif$image
 ||cdn.asriran.com/files/adv/5726_488.png$image
 ||cdn.asriran.com/files/adv/4952_490.png$image
-
-! 5/30/2020 https://emalls.ir
 ||emalls.ir//files/da/d5gpvi01n8pbtjjwcygy06yrno0m25ipq61ns3tyauleedk5kk.gif$image
 ||emalls.ir//files/da/tnpprdpk1wzz2hpbexlwto77scxi88ivqysvye60qv5rbbzn7o.jpg$image
 ||emalls.ir//files/da/h05m4btrzfne5k7qy1n3cy3602tr8ek53bdef35ivaf58sjyha.png$image
@@ -196,8 +165,6 @@ www.ninisite.com##.pull-xs-right.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-xl-
 ||emalls.ir//files/da/hoxqeq7quzofw8kazdiwi17ovwbvff4e3h7hm4z3ig15b0vpi7.gif$image
 ||emalls.ir//files/da/hviif3buyd6cd40pdoxhi2o3yganfd6ts8p1rama84vew7cih3.jpg$image
 emalls.ir##.side-bar-wrapper > div
-
-! 5/30/2020 https://www.rokna.net
 ||static1.rokna.net/servev2/jAL3SqgU6Mz3/Db2f077dXpA,/%D8%B3%D9%85+%D9%BE%D8%A7%D8%B4%DB%8C+-+%D8%A8%D9%86%D8%B1+%D9%85%D8%B1%D8%A8%D8%B9%DB%8C+-+%D8%B5%D9%81%D8%AD%D9%87+%D8%AF%D8%A7%D8%AE%D9%84%DB%8C.gif$image
 www.rokna.net##[href="/advertisements/triggered/700/"]
 www.rokna.net##.adv-cases
@@ -218,25 +185,17 @@ www.rokna.net##div.position-h4.type-script:nth-of-type(1)
 www.rokna.net##div.position-h4.type-script:nth-of-type(2)
 www.rokna.net##a._1bDjj2PYtFg9n5wUg2WhyE:nth-of-type(3) > ._1k6lUmkT5R6Zjy2SijTWao
 www.rokna.net##._1KCgn3BRn6JSDmGtIDSFRR.pyKfDAAkkVNku-moMqHfe
-
-! 5/30/2020 https://toranji.ir
 ||toranji.ir/wp-content/uploads/2018/10/790x84.gif$image
 toranji.ir###mc-top-banner-left
 toranji.ir###mc-top-banner-right
 toranji.ir###menu-item-1011376 > [href="https://toranji.ir/%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa/"]
-
-! 5/30/2020 http://praise.blogfa.com
 praise.blogfa.com###\33 2145640 > div:nth-of-type(1) > div:nth-of-type(2)
 praise.blogfa.com###\33 2145640 > div:nth-of-type(1)
 ||www.blogfa.com/b/*$image
 praise.blogfa.com###\37 9456975 > div:nth-of-type(1)
 praise.blogfa.com###\37 9456975
-
-! 5/30/2020 http://pv0000.blogfa.com
 pv0000.blogfa.com##[href="http://www.blogfa.com/ads"]
 pv0000.blogfa.com###\34 6285861 > div:nth-of-type(1)
-
-! 5/30/2020 http://cafeapple.net
 ||cafeapple.net/templates/Barana/images/FaRaRa.gif$image
 cafeapple.net##div.side-tabligh.side-block:nth-of-type(1)
 ||cafeapple.net/uploads/banner/Ads.jpg$image
@@ -247,11 +206,7 @@ cafeapple.net##div.side-tabligh.side-block:nth-of-type(3)
 cafeapple.net##.tblinks-wrap > .center
 cafeapple.net##.tblinks-wrap
 cafeapple.net##.love > .center > .big-tabligh
-
-! 5/30/2020 https://panel.mediaad.org
 ||panel.mediaad.org/*$image
-
-! 5/30/2020 https://gamefa.com
 ||gamefa.com/wp-content/uploads/2020/04/GAMEFA*.jpg$image
 ||gamefa.com/wp-content/uploads/2020/04/geefti.gif$image
 gamefa.com##.px-sm-3.px-1.pt-3.container-fluid > .text-center.p-2.light-back.rounded
@@ -260,11 +215,8 @@ gamefa.com###image-advertise > .px-2.pt-2.rounded.light-back
 ||gamefa.com/wp-content/uploads/2020/04/ezgif-2-48ef36f8d06b.gif$image
 gamefa.com###close-top-fix
 ##.pb-3.baners.px-md-4
-! 6/1/2020 https://www.zoomit.ir
 ||www.giftcardstore.ir/images/landing/zoomit/1300-100/index.html$subdocument
 www.zoomit.ir##.responsive_ads_1300x1100 > span
-
-! 6/1/2020 https://www.zoomg.ir
 ||cdn.zoomg.ir/2020/5/5b4dbb19-bb76-47f8-9fa5-abd0e52be386.jpg$image
 ||cdn.zoomg.ir/2020/5/79df855c-f9a0-4bb2-9723-80ccdbdd706d-400x267.jpg$image
 ||cdn.zoomg.ir/2020/5/8ed806c3-a8b5-4df4-bd46-8b6ead50b71c-400x267.jpg$image
@@ -291,8 +243,6 @@ www.zoomg.ir##div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:n
 www.zoomg.ir##div.banner-wrapper:nth-of-type(3) > .banner
 www.zoomg.ir##.pad0A.Text5Ad
 www.zoomg.ir##[href="/advertise"]
-
-! 6/1/2020 https://www.kojaro.com
 www.kojaro.com##cloudflare-app
 www.kojaro.com##.homepage-content
 ||images.kojaro.com/2020/5/4d498d01-7093-459c-b79f-9dd73eb80689.gif$image
@@ -301,11 +251,8 @@ www.kojaro.com##.homepage-content
 ||landing.atighgasht.com/banner/?$subdocument
 www.kojaro.com##.mr_bilit_frame
 ||images.kojaro.com/2020/5/f34b440d-cba1-40da-8c97-6dbe7fb523fa.jpeg$image
-! 6/1/2020 https://www.zoomit.ir
 ||www.giftcardstore.ir/images/landing/zoomit/1300-100/index.html$subdocument
 www.zoomit.ir##.responsive_ads_1300x1100 > span
-
-! 6/1/2020 https://www.zoomg.ir
 ||cdn.zoomg.ir/2020/5/5b4dbb19-bb76-47f8-9fa5-abd0e52be386.jpg$image
 ||cdn.zoomg.ir/2020/5/79df855c-f9a0-4bb2-9723-80ccdbdd706d-400x267.jpg$image
 ||cdn.zoomg.ir/2020/5/8ed806c3-a8b5-4df4-bd46-8b6ead50b71c-400x267.jpg$image
@@ -332,8 +279,6 @@ www.zoomg.ir##div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:n
 www.zoomg.ir##div.banner-wrapper:nth-of-type(3) > .banner
 www.zoomg.ir##.pad0A.Text5Ad
 www.zoomg.ir##[href="/advertise"]
-
-! 6/1/2020 https://www.kojaro.com
 www.kojaro.com##cloudflare-app
 www.kojaro.com##.homepage-content
 ||images.kojaro.com/2020/5/4d498d01-7093-459c-b79f-9dd73eb80689.gif$image
@@ -342,35 +287,21 @@ www.kojaro.com##.homepage-content
 ||landing.atighgasht.com/banner/?$subdocument
 www.kojaro.com##.mr_bilit_frame
 ||images.kojaro.com/2020/5/f34b440d-cba1-40da-8c97-6dbe7fb523fa.jpeg$image
-
-! 6/1/2020 https://www.p30world.com
-www.p30world.com##.a-11.a-single > p:nth-of-type(1)
-www.p30world.com###menu-item-8976 > [href="https://www.p30world.com/%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA/"]
-
-! 6/1/2020 https://forum.persiantools.com
 forum.persiantools.com##li:nth-of-type(4) > .p-navEl > .p-navEl-link
 ||fbm.ptcdn.ir/banners/irexchanger.gif$image
 ||fbm.ptcdn.ir/banners/honey4.gif$image
 forum.persiantools.com##div.ptbannerholder:nth-of-type(5)
 forum.persiantools.com##div.ptbannerholder:nth-of-type(7)
-
-! 6/1/2020 https://www.alexa.com
 www.alexa.com##div.TopSitesAd.row-fluid:nth-of-type(3) > .right
 ||www.alexa.com/alx-sa-18a05346-1590774057/css/scssv2/images/top-sites-pattern.png$image
 www.alexa.com##div.TopSitesAd.row-fluid:nth-of-type(3)
-
-! 6/1/2020 https://www.farsnews.ir
 www.farsnews.ir###carousel_adsss > .draggable.slick-list > .slick-track
 www.farsnews.ir###carousel_adsss > .draggable.slick-list
 www.farsnews.ir##.title.align-items-center.d-flex.py-2.px-3.text-justify.border-bottom
-
 https://sanjagh.com
-! 6/1/2020 https://www.isna.ir
 ||cdn.isna.ir/d/2020/05/19/1/61639866.jpg$image
 www.isna.ir###box109
 www.isna.ir###box180 > div
-
-! 6/1/2020 https://www.rond.ir
 ||www.rond.ir/Content/images/homeImages/blank-loading.png$image
 www.rond.ir##div.grid_6:nth-of-type(1) > .banner-box
 www.rond.ir##div.grid_6:nth-of-type(2) > .banner-box
@@ -383,8 +314,6 @@ www.rond.ir##div.banner:nth-of-type(2) > .banner-box
 www.rond.ir##div.banner:nth-of-type(3) > .banner-box
 www.rond.ir###dRotateBanner
 www.rond.ir###layoutContent > .row
-
-! 6/1/2020 https://www.tarafdari.com
 www.tarafdari.com###advertise-header
 www.tarafdari.com##._2xuJI-QLRd1FjyXIdrd0b1
 www.tarafdari.com##._3jwbPWfVG1MDRuPUt7bmxZ
@@ -407,8 +336,6 @@ www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(4)
 www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(1)
 www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(3)
 www.tarafdari.com##._35FPgPKH2YiQOHFDP92Mqo._1oWS82QWBiUTWAJ-KIWUw7
-
-! 6/1/2020 https://setare.com
 ||setare.com/files/adv/4478_665.png$image
 ||setare.com/files/adv/*$image
 setare.com##section.webgardi:nth-of-type(1) > .row.adv_news_content
@@ -421,27 +348,18 @@ setare.com##div.visible-lg.visible-md.visible-sm:nth-of-type(2) > .webgardi_nobo
 setare.com##section.webgardi:nth-of-type(2)
 setare.com##section.webgardi:nth-of-type(1)
 setare.com##li:nth-of-type(3) > .adv
-
-! 6/1/2020 https://fararu.com
 ||fararu.com/files/adv/*$image
-
-! 6/1/2020 https://www.jamnews.com
 www.jamnews.com##._2K77mUwmerrWUP61AToPWe
 www.jamnews.com##a._2own3n7skws6f_fVmFLmM9:nth-of-type(4)
 www.jamnews.com##.Fsw1puXqt4VemP244Aynf.ygD3DLbZPYVI4lO99u1ss
 www.jamnews.com##a._10lAo18F2ZUNukcH5opIxq:nth-of-type(6)
 www.jamnews.com##._39AxP1dvZEqTTzJRCg3zs4.jpoCzbyjC3qLPVq9HyJPg
 www.jamnews.com##._3bjxip5S3xoGPxU8DeOwxS
-
-! 6/1/2020 https://www.rokna.net
 www.rokna.net##.sanjagh
 ||affiliate.digikala.com/PromotionBanners/98bcf416-2a9a-417d-a29d-65eab6004ed6/e3b67454-dedd-4b24-9c71-f06563331a3e-300x250.gif$image
-! 6/1/2020 https://www.khabaronline.ir
 ||affiliate.digikala.com/PromotionBanners/98bcf416-2a9a-417d-a29d-65eab6004ed6/e3b67454-dedd-4b24-9c71-f06563331a3e-300x250.gif$image
 ||media.khabaronline.ir/d/2020/05/05/0/5388542.jpg$image
 ||media.khabaronline.ir/d/2020/05/06/0/5389259.jpg$image
-
-! 6/1/2020 https://www.beytoote.com
 ||storage.beytoote.com/images/adsbeytoote/*$image
 www.beytoote.com##div.pc-t-p.countclick.mod-box:nth-of-type(2)
 www.beytoote.com###\33 4024
@@ -455,8 +373,6 @@ www.beytoote.com###\33 4189
 www.beytoote.com###\33 3897
 www.beytoote.com###\33 3962
 www.beytoote.com###\33 3865
-
-! 6/1/2020 http://uploadboy.com
 ||uploadboy.com/template/img/welcome2purchase.png$image
 uploadboy.com##.litebox > div:nth-of-type(2)
 ||cdn01.zoomit.ir/2020/5/3fa4d274-b8e5-44cf-b628-dc14de1f6513.jpg$image
