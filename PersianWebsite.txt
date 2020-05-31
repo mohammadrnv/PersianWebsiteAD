@@ -46,16 +46,6 @@ vigiato.net##iframe
 ||vigiato.net/img/icons/xvigiato-logo-back.png.pagespeed.a.ic.ptTrv68TSj.webp$image
 vigiato.net###custom_html-15 > .custom-html-widget.textwidget > .ads-showontablet.ads-showondesktop.vg-adsbox
 
-
-
-! 5/30/2020 https://www.p30world.com
-||faradars.org/ev/baners/ftr99/index.php?ref=p30world.com$subdocument
-www.p30world.com###kaprila_p30world_com_related
-www.p30world.com###kaprila_p30world_com_related-down
-www.p30world.com###kaprila_sticky_header > div
-www.p30world.com###kaprila_sticky_header
-||beta.kaprila.com/a/show.php?ref=p30world.com&id=inline&w=533&h=110&type=gen&crawl=1&template=inline&count=3&bg=B3FF92&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D8%A8%D8%A7%D8%B2%DB%8C%20Twelvesmith%201.0.4%20%E2%80%93%20%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%81%DA%A9%D8%B1%DB%8C%20%D9%88%20%D9%86%D9%88%D8%A2%D9%88%D8%B1%D8%A7%D9%86%D9%87%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF$subdocument
-
 ! 5/30/2020 https://soft98.ir
 ||cloudir.cf/iranicard2.az$image
 soft98.ir##.show.toast-lg.fade.toast
@@ -373,7 +363,7 @@ www.alexa.com##div.TopSitesAd.row-fluid:nth-of-type(3)
 www.farsnews.ir###carousel_adsss > .draggable.slick-list > .slick-track
 www.farsnews.ir###carousel_adsss > .draggable.slick-list
 www.farsnews.ir##.title.align-items-center.d-flex.py-2.px-3.text-justify.border-bottom
-*.gif$image,domain=~media.farsnews.ir,important
+
 https://sanjagh.com
 ! 6/1/2020 https://www.isna.ir
 ||cdn.isna.ir/d/2020/05/19/1/61639866.jpg$image
