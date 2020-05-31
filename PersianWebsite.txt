@@ -459,22 +459,13 @@ www.beytoote.com###\33 3865
 ! 6/1/2020 http://uploadboy.com
 ||uploadboy.com/template/img/welcome2purchase.png$image
 uploadboy.com##.litebox > div:nth-of-type(2)
-
-! 6/1/2020 https://www.zoomit.ir
 ||cdn01.zoomit.ir/2020/5/3fa4d274-b8e5-44cf-b628-dc14de1f6513.jpg$image
-
-! 6/1/2020 https://trainbit.com
 trainbit.com##[href="/adver"]
-
-! 6/1/2020 https://nex1music.ir
 ||nex1music.ir/themev3/img/release.jpg$image
 ||nex1music.ir/themev3/img/leader.png$image
 ||nex1music.ir/themev3/img/release.jpg$image
-
-! 6/1/2020 https://bazimag.com
 bazimag.com##[href="/تبلیغات"]
-
-! 6/1/2020 https://gamefa.com
 gamefa.com##.fix-ads.left-ads
 gamefa.com##.fix-ads.right-ads
 gamefa.com##.rounded.mb-3.p-3.light-back.single-advertise
+*.gif$image,domain=~media.farsnews.ir,important
