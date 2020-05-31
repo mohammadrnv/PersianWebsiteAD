@@ -46,9 +46,7 @@ vigiato.net##iframe
 ||vigiato.net/img/icons/xvigiato-logo-back.png.pagespeed.a.ic.ptTrv68TSj.webp$image
 vigiato.net###custom_html-15 > .custom-html-widget.textwidget > .ads-showontablet.ads-showondesktop.vg-adsbox
 
-! 5/30/2020 http://forum.p30world.com
-forum.p30world.com###ad_global_below_navbar > div:nth-of-type(1)
-forum.p30world.com###ad_global_below_navbar
+
 
 ! 5/30/2020 https://www.p30world.com
 ||faradars.org/ev/baners/ftr99/index.php?ref=p30world.com$subdocument
