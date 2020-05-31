@@ -1,4 +1,3 @@
-
 ||cdn01.zoomit.ir/2020/5/79ca657d-cadc-48bd-86f0-335b2bd93d64.gif$image
 ||cdn01.zoomit.ir/2020/4/a627d661-5437-43f6-bb4e-a10b787b646e.gif$image
 ||cdn01.zoomit.ir/2020/4/402e91e5-fa10-49a6-b534-20e4f6e6285c.gif$image
@@ -385,3 +384,9 @@ gamefa.com##.fix-ads.left-ads
 gamefa.com##.fix-ads.right-ads
 gamefa.com##.rounded.mb-3.p-3.light-back.single-advertise
 *.gif$image,domain=~media.farsnews.ir,important
+forum.p30world.com###ad_global_below_navbar
+||faradars.org/ev/baners/ftr99/index.php?ref=p30world.com$subdocument
+www.p30world.com###kaprila_sticky_header > div
+www.p30world.com###kaprila_sticky_header
+||beta.kaprila.com/a/show.php?notitle&ref=p30world.com&id=related&w=600&h=420&type=gen&crawl=1&template=related&count=6&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20Maplesoft%20Maple%202020.0%20-%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%B4%D8%A8%DB%8C%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C$subdocument
+||beta.kaprila.com/a/show.php?ref=p30world.com&id=related-down&w=600&h=480&type=gen&crawl=1&template=related&count=6&tab=1&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20Maplesoft%20Maple%202020.0%20-%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%B4%D8%A8%DB%8C%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C$subdocument
