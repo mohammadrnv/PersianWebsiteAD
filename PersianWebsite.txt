@@ -448,3 +448,49 @@ www.jamnews.com##._3bjxip5S3xoGPxU8DeOwxS
 ! 6/1/2020 https://www.rokna.net
 www.rokna.net##.sanjagh
 ||affiliate.digikala.com/PromotionBanners/98bcf416-2a9a-417d-a29d-65eab6004ed6/e3b67454-dedd-4b24-9c71-f06563331a3e-300x250.gif$image
+! 6/1/2020 https://www.khabaronline.ir
+||affiliate.digikala.com/PromotionBanners/98bcf416-2a9a-417d-a29d-65eab6004ed6/e3b67454-dedd-4b24-9c71-f06563331a3e-300x250.gif$image
+||media.khabaronline.ir/d/2020/05/05/0/5388542.jpg$image
+||media.khabaronline.ir/d/2020/05/06/0/5389259.jpg$image
+
+! 6/1/2020 https://www.beytoote.com
+||storage.beytoote.com/images/adsbeytoote/*$image
+www.beytoote.com##div.pc-t-p.countclick.mod-box:nth-of-type(2)
+www.beytoote.com###\33 4024
+www.beytoote.com###slideshow-55-5ed433839323d > .slides-container > .slides > li:nth-of-type(2)
+www.beytoote.com###slideshow-55-5ed433839323d > .slides-container > .slides
+www.beytoote.com##.deepest.specific.mod-box.module
+www.beytoote.com##.count.rcd_c.countclick.height-180.c-ads-banner
+www.beytoote.com##.pcfadv4
+www.beytoote.com##.pcfadv8
+www.beytoote.com###\33 4189
+www.beytoote.com###\33 3897
+www.beytoote.com###\33 3962
+www.beytoote.com###\33 3865
+
+! 6/1/2020 http://uploadboy.com
+||uploadboy.com/template/img/welcome2purchase.png$image
+uploadboy.com##.litebox > div:nth-of-type(2)
+
+! 6/1/2020 https://www.zoomit.ir
+||cdn01.zoomit.ir/2020/5/3fa4d274-b8e5-44cf-b628-dc14de1f6513.jpg$image
+
+! 6/1/2020 https://trainbit.com
+trainbit.com##[href="/adver"]
+
+! 6/1/2020 https://nex1music.ir
+||nex1music.ir/themev3/img/release.jpg$image
+||nex1music.ir/themev3/img/leader.png$image
+||nex1music.ir/themev3/img/release.jpg$image
+
+! 6/1/2020 https://bazimag.com
+bazimag.com##[href="/تبلیغات"]
+
+! 6/1/2020 https://gamefa.com
+||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-l-2-min.jpg$image
+||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-r-min.jpg$image
+||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-r-min.jpg$image
+gamefa.com##.fix-ads.left-ads
+||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-l-2-min.jpg$image
+gamefa.com##.fix-ads.right-ads
+gamefa.com##.rounded.mb-3.p-3.light-back.single-advertise
