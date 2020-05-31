@@ -376,3 +376,74 @@ www.farsnews.ir###carousel_adsss > .draggable.slick-list > .slick-track
 www.farsnews.ir###carousel_adsss > .draggable.slick-list
 www.farsnews.ir##.title.align-items-center.d-flex.py-2.px-3.text-justify.border-bottom
 *.gif$image,domain=~media.farsnews.ir,important
+https://sanjagh.com
+! 6/1/2020 https://www.isna.ir
+||cdn.isna.ir/d/2020/05/19/1/61639866.jpg$image
+www.isna.ir###box109
+www.isna.ir###box180 > div
+
+! 6/1/2020 https://www.rond.ir
+||www.rond.ir/Content/images/homeImages/blank-loading.png$image
+www.rond.ir##div.grid_6:nth-of-type(1) > .banner-box
+www.rond.ir##div.grid_6:nth-of-type(2) > .banner-box
+www.rond.ir##.grid_3 > div:nth-of-type(3) > .banner-box
+www.rond.ir##.grid_3 > div:nth-of-type(4) > .banner-box
+www.rond.ir##.grid_3 > div:nth-of-type(5) > .banner-box
+www.rond.ir##.grid_3 > div:nth-of-type(6) > .banner-box
+www.rond.ir##div.banner:nth-of-type(1) > .banner-box
+www.rond.ir##div.banner:nth-of-type(2) > .banner-box
+www.rond.ir##div.banner:nth-of-type(3) > .banner-box
+www.rond.ir###dRotateBanner
+www.rond.ir###layoutContent > .row
+
+! 6/1/2020 https://www.tarafdari.com
+www.tarafdari.com###advertise-header
+www.tarafdari.com##._2xuJI-QLRd1FjyXIdrd0b1
+www.tarafdari.com##._3jwbPWfVG1MDRuPUt7bmxZ
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(1) > ._30mRe6DbQo-MJFblnkOD_q
+||cdni.sanjagh.com/assets/c/c384b3e7c07523b5/d4af74f81dcce9df3f6fc362a1dffd42/8b62eed4d1ec1a28.jpg$image
+||cdni.sanjagh.com/assets/c/4323f7ca53911f94/9a9766b76071d8d4d47dc77482226526/a1701ccec8fbe6d2.jpg$image
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(2) > ._1xnjhvQ4-MIN8kW21d6eXU
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(2) > ._30mRe6DbQo-MJFblnkOD_q
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(3) > ._30mRe6DbQo-MJFblnkOD_q
+||cdni.sanjagh.com/assets/c/c384b3e7c07523b5/9373cd2ab998243f10f547d3975367a6/64821bb740c22c13.jpg$image
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(4) > ._30mRe6DbQo-MJFblnkOD_q
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(1) > ._1xnjhvQ4-MIN8kW21d6eXU
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(3) > ._1xnjhvQ4-MIN8kW21d6eXU
+www.tarafdari.com##a.oyksSJgHKI_Z8YM0wmfM_:nth-of-type(4) > ._1xnjhvQ4-MIN8kW21d6eXU
+www.tarafdari.com##.nh6wW_n7h9RlY62e40p9K
+www.tarafdari.com##._1iEZqNJsYCNVlqGZU73dau
+www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(6)
+www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(5)
+www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(4)
+www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(1)
+www.tarafdari.com##a._1N0-mQxfA8sz27PwBd4lHV:nth-of-type(3)
+www.tarafdari.com##._35FPgPKH2YiQOHFDP92Mqo._1oWS82QWBiUTWAJ-KIWUw7
+
+! 6/1/2020 https://setare.com
+||setare.com/files/adv/4478_665.png$image
+||setare.com/files/adv/*$image
+setare.com##section.webgardi:nth-of-type(1) > .row.adv_news_content
+setare.com##section.webgardi:nth-of-type(2) > .row.adv_news_content
+setare.com##section.webgardi:nth-of-type(1) > .archive_star_sar2
+setare.com##div.visible-lg.visible-md.visible-sm:nth-of-type(2) > .webgardi_noborder > .webgardi2 > .webgardi2_content_parent_odd.news_padd.col-xs-36.col-sm-18 > .valign2.webgardi2_content
+setare.com##div.visible-lg.visible-md.visible-sm:nth-of-type(2) > .webgardi_noborder > .webgardi2 > .webgardi2_content_parent_even.news_padd.col-xs-36.col-sm-18 > .valign2.webgardi2_content
+setare.com##div.visible-lg.visible-md.visible-sm:nth-of-type(2) > .webgardi_noborder > .webgardi2 > .webgardi2_content_parent_even.news_padd.col-xs-36.col-sm-18
+setare.com##div.visible-lg.visible-md.visible-sm:nth-of-type(2) > .webgardi_noborder > .webgardi2
+setare.com##section.webgardi:nth-of-type(2)
+setare.com##section.webgardi:nth-of-type(1)
+setare.com##li:nth-of-type(3) > .adv
+
+! 6/1/2020 https://fararu.com
+||fararu.com/files/adv/*$image
+
+! 6/1/2020 https://www.jamnews.com
+www.jamnews.com##._2K77mUwmerrWUP61AToPWe
+www.jamnews.com##a._2own3n7skws6f_fVmFLmM9:nth-of-type(4)
+www.jamnews.com##.Fsw1puXqt4VemP244Aynf.ygD3DLbZPYVI4lO99u1ss
+www.jamnews.com##a._10lAo18F2ZUNukcH5opIxq:nth-of-type(6)
+www.jamnews.com##._39AxP1dvZEqTTzJRCg3zs4.jpoCzbyjC3qLPVq9HyJPg
+www.jamnews.com##._3bjxip5S3xoGPxU8DeOwxS
+
+! 6/1/2020 https://www.rokna.net
+www.rokna.net##.sanjagh
