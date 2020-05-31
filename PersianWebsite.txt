@@ -487,10 +487,6 @@ trainbit.com##[href="/adver"]
 bazimag.com##[href="/تبلیغات"]
 
 ! 6/1/2020 https://gamefa.com
-||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-l-2-min.jpg$image
-||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-r-min.jpg$image
-||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-r-min.jpg$image
 gamefa.com##.fix-ads.left-ads
-||gamefa.com/wp-content/uploads/2020/05/skin-gamefa-l-2-min.jpg$image
 gamefa.com##.fix-ads.right-ads
 gamefa.com##.rounded.mb-3.p-3.light-back.single-advertise
