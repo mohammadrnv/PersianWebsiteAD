@@ -313,3 +313,66 @@ www.kojaro.com##.homepage-content
 ||landing.atighgasht.com/banner/?$subdocument
 www.kojaro.com##.mr_bilit_frame
 ||images.kojaro.com/2020/5/f34b440d-cba1-40da-8c97-6dbe7fb523fa.jpeg$image
+! 6/1/2020 https://www.zoomit.ir
+||www.giftcardstore.ir/images/landing/zoomit/1300-100/index.html$subdocument
+www.zoomit.ir##.responsive_ads_1300x1100 > span
+
+! 6/1/2020 https://www.zoomg.ir
+||cdn.zoomg.ir/2020/5/5b4dbb19-bb76-47f8-9fa5-abd0e52be386.jpg$image
+||cdn.zoomg.ir/2020/5/79df855c-f9a0-4bb2-9723-80ccdbdd706d-400x267.jpg$image
+||cdn.zoomg.ir/2020/5/8ed806c3-a8b5-4df4-bd46-8b6ead50b71c-400x267.jpg$image
+www.zoomg.ir##.hidden-xs.hidden-sm.stickySidebar.pad15LR-sm.pad0R.pad0L.col-xs-12.col-sm-12.col-md-3 > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > .banner-wrapper > .banner
+||www.giftcardstore.ir/images/landing/zoomg/970-250/index.html$subdocument
+www.zoomg.ir##.responsive_ads_970x250 > span
+www.zoomg.ir##.hidden-xs.stickySidebar.pad0R.pad0L.col-xs-12.col-sm-3.col-md-2 > .theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > .banner-wrapper > .banner
+||cdn.zoomg.ir/2020/4/33d7a1bd-430d-4dea-ac96-d0b84f717eb5.gif$image
+||cdn.zoomg.ir/2020/2/9388d75f-bbbf-4dbf-8f13-090949c0c64f.gif$image
+||cdn.zoomg.ir/2020/5/2697790e-fe9d-4a79-bb2d-0a216dac6acc.gif$image
+||cdn.zoomg.ir/2020/5/311da338-620f-4d60-aa72-12d46253b7e1.jpg$image
+||cdn.zoomg.ir/2020/5/bc403cad-8d71-4319-b78a-59d31d1455f1.gif$image
+||cdn.zoomg.ir/2020/4/6d10f9ad-c598-4960-842b-de11eb8da5e8.gif$image
+||www.giftcardstore.ir/images/landing/zoomg/1300-100/index.html$subdocument
+www.zoomg.ir##.responsive_ads_1300x110 > span
+||cdn.zoomg.ir/2020/4/31f4f733-dc20-4653-a92f-a7ad5929dcd6.gif$image
+||cdn.zoomg.ir/2020/2/24726ade-b689-451a-b147-24340397fe21.gif$image
+||cdn.zoomg.ir/2020/5/389632ed-0368-4419-9879-d5244506a137.gif$image
+||cdn.zoomg.ir/2020/5/cc9f366a-86a6-4f58-80a5-539490178b26.gif$image
+www.zoomg.ir##div.clearfix.bannercontainer:nth-of-type(2) > div.banner-wrapper:nth-of-type(1) > .banner
+www.zoomg.ir##div.clearfix.bannercontainer:nth-of-type(2) > div.banner-wrapper:nth-of-type(2) > .banner
+www.zoomg.ir##.theiaStickySidebar > div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(1) > .banner
+www.zoomg.ir##div.clearfix.bannercontainer:nth-of-type(1) > div.banner-wrapper:nth-of-type(2) > .banner
+www.zoomg.ir##div.banner-wrapper:nth-of-type(3) > .banner
+www.zoomg.ir##.pad0A.Text5Ad
+www.zoomg.ir##[href="/advertise"]
+
+! 6/1/2020 https://www.kojaro.com
+www.kojaro.com##cloudflare-app
+www.kojaro.com##.homepage-content
+||images.kojaro.com/2020/5/4d498d01-7093-459c-b79f-9dd73eb80689.gif$image
+||images.kojaro.com/2019/11/e9df2d07-e378-4fe7-af54-03e71d73d7fd.jpg$image
+||images.kojaro.com/2020/5/60baaad1-1ae6-4c6b-871d-479d65da38d5.gif$image
+||landing.atighgasht.com/banner/?$subdocument
+www.kojaro.com##.mr_bilit_frame
+||images.kojaro.com/2020/5/f34b440d-cba1-40da-8c97-6dbe7fb523fa.jpeg$image
+
+! 6/1/2020 https://www.p30world.com
+www.p30world.com##.a-11.a-single > p:nth-of-type(1)
+www.p30world.com###menu-item-8976 > [href="https://www.p30world.com/%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA/"]
+
+! 6/1/2020 https://forum.persiantools.com
+forum.persiantools.com##li:nth-of-type(4) > .p-navEl > .p-navEl-link
+||fbm.ptcdn.ir/banners/irexchanger.gif$image
+||fbm.ptcdn.ir/banners/honey4.gif$image
+forum.persiantools.com##div.ptbannerholder:nth-of-type(5)
+forum.persiantools.com##div.ptbannerholder:nth-of-type(7)
+
+! 6/1/2020 https://www.alexa.com
+www.alexa.com##div.TopSitesAd.row-fluid:nth-of-type(3) > .right
+||www.alexa.com/alx-sa-18a05346-1590774057/css/scssv2/images/top-sites-pattern.png$image
+www.alexa.com##div.TopSitesAd.row-fluid:nth-of-type(3)
+
+! 6/1/2020 https://www.farsnews.ir
+www.farsnews.ir###carousel_adsss > .draggable.slick-list > .slick-track
+www.farsnews.ir###carousel_adsss > .draggable.slick-list
+www.farsnews.ir##.title.align-items-center.d-flex.py-2.px-3.text-justify.border-bottom
+*.gif$image,domain=~media.farsnews.ir,important
