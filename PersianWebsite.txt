@@ -413,3 +413,9 @@ www.mobile.ir##div.apnl:nth-of-type(4)
 www.mobile.ir##.rightverticalapnl.apnl > div
 www.mobile.ir##.rightverticalapnl.apnl > h4
 www.mobile.ir##.rightverticalapnl.apnl
+! 6/26/2020 http://uupload.ir
+uupload.ir###tabligh
+! 2020-10-08 https://www.zoomit.ir
+www.zoomit.ir##.col-sm-3.rightSidebar.dir-rtl.right-side > .theiaStickySidebar > div.clearfix.bannercontainer > div.banner-wrapper > .banner
+www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer > .banner-wrapper > .banner
+www.zoomit.ir##.hidden-xs.FeaturedBottom.container > .clearfix.bannercontainer > .banner-wrapper > .banner
