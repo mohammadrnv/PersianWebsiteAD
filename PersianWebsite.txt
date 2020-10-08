@@ -383,15 +383,6 @@ bazimag.com##[href="/تبلیغات"]
 gamefa.com##.fix-ads.left-ads
 gamefa.com##.fix-ads.right-ads
 gamefa.com##.rounded.mb-3.p-3.light-back.single-advertise
-*.gif$image,domain=~media.farsnews.ir,important
-forum.p30world.com###ad_global_below_navbar
-||faradars.org/ev/baners/ftr99/index.php?ref=p30world.com$subdocument
-www.p30world.com###kaprila_sticky_header > div
-www.p30world.com###kaprila_sticky_header
-||beta.kaprila.com/a/show.php?notitle&ref=p30world.com&id=related&w=600&h=420&type=gen&crawl=1&template=related&count=6&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20Maplesoft%20Maple%202020.0%20-%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%B4%D8%A8%DB%8C%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C$subdocument
-||beta.kaprila.com/a/show.php?ref=p30world.com&id=related-down&w=600&h=480&type=gen&crawl=1&template=related&count=6&tab=1&page_title=%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20Maplesoft%20Maple%202020.0%20-%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%20%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%B4%D8%A8%DB%8C%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C$subdocument
-forum.p30world.com###ad_global_below_navbar
-forum.p30world.com###navbar_notice_66
 ! 6/1/2020 https://digiato.com
 digiato.com##.sticky-side.left-sidebar.main-sidebar.home-col.columns.show-for-medium.medium-4.large-3 > .theiaStickySidebar > div.widget-ad.sidebar-widget:nth-of-type(1)
 digiato.com##.sticky-side.right-sidebar.main-sidebar.home-col.columns.show-for-medium.large-pull-6.medium-4.large-3 > .theiaStickySidebar > div.widget-ad.sidebar-widget:nth-of-type(1)
