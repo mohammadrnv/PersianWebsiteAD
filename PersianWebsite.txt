@@ -389,3 +389,23 @@ www.mobile.ir##.rightverticalapnl.apnl > h4
 www.mobile.ir##.rightverticalapnl.apnl
 ! 6/26/2020 http://uupload.ir
 uupload.ir###tabligh
+! 2020-10-11 https://www.zoomit.ir
+||cdn01.zoomit.ir/2020/9/banner-hamkaran-cloud-home-250x250.gif$image
+||cdn01.zoomit.ir/2020/10/banner-honor-1300x100-9x.gif$image
+||cdn01.zoomit.ir/2020/9/banner-pishro-300x250.gif$image
+||cdn01.zoomit.ir/2020/10/banner-honor-1300x100-9x.gif$image
+||cdn01.zoomit.ir/2020/9/banner-hamkaran-cloud-home-250x250.gif$image
+||cdn01.zoomit.ir/2020/10/banner-honor-1300x100-9x.gif$image
+||cdn01.zoomit.ir/2020/9/banner-pishro-300x250.gif$image
+||cdn01.zoomit.ir/2020/10/banner-honor-1300x100-9x.gif$image
+www.zoomit.ir##.hidden-xs.FeaturedBottom.container > .clearfix.bannercontainer > .banner-wrapper > .banner
+||cdn01.zoomit.ir/2020/9/banner-pishro-300x250.gif$image
+||cdn01.zoomit.ir/2020/9/banner-hamkaran-cloud-home-250x250.gif$image
+||cdn01.zoomit.ir/2020/9/banner-pishro-300x250.gif$image
+www.zoomit.ir##.col-sm-3.rightSidebar.dir-rtl.right-side > .theiaStickySidebar > div.clearfix.bannercontainer > .banner-wrapper > .banner
+www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer > div.banner-wrapper > .banner
+www.zoomit.ir##.wide-adv-box > .clearfix.bannercontainer > .banner-wrapper > .banner
+www.zoomit.ir##.hidden-xs.hidden-sm > .clearfix.bannercontainer > div.banner-wrapper > .banner
+www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer
+www.zoomit.ir##.Comment-ad > .clearfix.bannercontainer > .banner-wrapper > .banner
+www.zoomit.ir##.navbar-nav.nav > li > [href="https://www.zoomit.ir/advertisement/"]
